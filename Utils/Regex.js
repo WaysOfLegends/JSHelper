@@ -6,4 +6,4 @@ enum StatusCode {
     ServerErrorResponse = "\\b5(?:0[08]|1[01]|9{2})\\b"
 }
 
-export RegularExpression;
+export StatusCode;
