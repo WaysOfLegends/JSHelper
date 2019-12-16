@@ -1,4 +1,4 @@
-enum RegularExpression {
+enum StatusCode {
     InformationalClassResponse = "\\b10[0-2]\\b",
     SuccessClassResponse = "\\b2(?:0[0-8]|26)\\b",
     RedirectionClassResponse = "\\b30[0-578]\\b",
